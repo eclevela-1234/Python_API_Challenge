@@ -5,8 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-config.py
-api_keys.py
+WeatherPy/config.py
+WeatherPy/api_keys.py
+VacationPy/api_keys.py
 # Distribution / packaging
 .Python
 build/
